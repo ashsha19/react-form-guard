@@ -1,0 +1,29 @@
+{
+  "name": "react-form-guard",
+  "version": "1.0.5",
+  "description": "A very simple and extensible form validation library for React applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Ashish Sharma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashsha19/react-form-guard"
+  },
+  "homepage": "https://github.com/ashsha19/react-form-guard#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2"
+  }
+}
